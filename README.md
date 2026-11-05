@@ -33,13 +33,10 @@ dan jumlah season serial, serta mengambil negara dan genre utama.
 ## 💡 Key Insights
 
 1. **Film mendominasi katalog.** Sekitar 69,7% judul adalah film dan 30,3% serial TV.
-2. **Pertumbuhan melonjak sejak 2016.** Penambahan judul per tahun naik tajam setelah 2015 dan memuncak pada 2019, dengan film menembus sekitar 1.400 judul pada tahun itu.
-3. **Penurunan 2020-2021 perlu dibaca hati-hati.** Data 2021 belum mencakup satu tahun penuh, jadi penurunan di ujung grafik tidak berarti Netflix berhenti menambah konten.
-4. **Durasi film rata-rata sekitar 100 menit**, dengan sebaran yang terkonsentrasi di kisaran durasi film pada umumnya (lihat histogram).
-5. **[ISI: negara dengan konten terbanyak, mis. "Amerika Serikat menjadi negara asal konten terbanyak (... judul)"]**
-6. **[ISI: bulan tersibuk menambah judul, dari heatmap]**
-
-(Pilih 3 sampai 5 insight yang paling kuat, hapus sisanya.)
+2. **Pertumbuhan melonjak sejak 2016 dan memuncak pada 2019**, dengan 2.016 judul ditambahkan pada tahun itu (film sekitar 1.400 judul). Penurunan di 2020-2021 perlu dibaca hati-hati karena data 2021 belum mencakup satu tahun penuh.
+3. **Amerika Serikat menjadi negara asal konten terbanyak** dengan 3.205 judul, sekitar 36% dari seluruh katalog.
+4. **Juli adalah bulan tersibuk** Netflix menambah judul. Heatmap juga memperlihatkan aktivitas tinggi pada akhir tahun 2018-2020, sedangkan Oktober-Desember 2021 kosong karena data berhenti sebelum tahun itu selesai.
+5. **Durasi film terkonsentrasi di sekitar 100 menit** (rata-rata 100 menit, nilai tengah 98 menit dari 6.131 film), dengan sebagian besar film berdurasi 75-125 menit pada histogram.
 
 ## 🚀 Menjalankan Secara Lokal
 
