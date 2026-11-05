@@ -31,7 +31,10 @@ tipe = st.sidebar.multiselect("Tipe konten", semua_tipe, default=semua_tipe)
 
 daftar_negara = sorted(df["country_main"].unique())
 negara = st.sidebar.multiselect(
-    "Negara (kosongkan = semua)", daftar_negara, placeholder="Semua negara"
+    "Negara (kosongkan = semua)",
+    daftar_negara,
+    default=[],
+    placeholder="Semua negara",
 )
 
 # ---------- Terapkan filter ----------
